@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2AA21409-C11E-4D8E-B996-E7830F6B50E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 20,
+    "x": 116,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C8C2199D-30E0-48D8-B850-77C57C18CF9C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11C9463E-6541-40F2-9B61-81AAC3858127"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E81C62FF-3D43-4A9D-B3C6-429880F7B043"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2190A0E-1CCD-4C22-ACA2-C92DCD62BB39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "61F50976-E73F-4BC2-8103-9232D6536A23"
+    }
+  ],
+  "name": "IconDownload",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

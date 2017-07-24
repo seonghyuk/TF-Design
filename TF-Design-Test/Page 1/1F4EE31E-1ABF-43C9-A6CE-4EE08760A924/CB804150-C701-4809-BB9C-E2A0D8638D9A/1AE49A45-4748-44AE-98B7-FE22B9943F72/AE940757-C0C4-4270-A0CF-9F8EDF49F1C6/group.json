@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "AE940757-C0C4-4270-A0CF-9F8EDF49F1C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 77,
+    "width": 166,
+    "x": 0,
+    "y": 298
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F7A4556B-F30A-4F40-AD28-D19B4BBCEA68"
+    },
+    {
+      "class": "text",
+      "id": "C603D7DE-5576-4128-9974-DB8DD4DE4EF1"
+    },
+    {
+      "class": "group",
+      "id": "E981F741-3AE5-4C0C-9820-D692A1E33EBA"
+    }
+  ],
+  "name": "BtnDownloadHover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

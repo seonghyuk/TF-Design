@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "B6502F96-47AE-49EE-BD3C-040831D01EF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 330,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "48BB6BFD-F656-44F2-88A4-52B428570F49"
+    },
+    {
+      "class": "text",
+      "id": "E2F8F0A2-EEE9-419C-9F4C-514BF57E57A2"
+    },
+    {
+      "class": "group",
+      "id": "24455037-7589-44FA-ABBA-96E411A47A41"
+    }
+  ],
+  "name": "투자리스트 ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "66066BE2-0013-409D-9FAB-01B998D9CC22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 40,
+    "x": 16,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BE6E3D29-BCF5-4534-872B-EC4487B3F4E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6CC620C-D527-4473-B6B7-EBE4D33A73A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C25D6200-0E75-40D8-AB01-C88757BAF74D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "966F99F2-896A-451B-9AEB-1BE621A2C6DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1557DAE3-6387-47D9-8CCF-8618E1B65056"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D610A3E2-5BC4-4ED2-A852-3DC369C1CE9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80570733-BDBD-41A2-B04F-6B49ABD650B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E5E6685-CF9B-4A1D-A517-A23663FDE338"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "538014A6-4E34-4665-8D6C-DEF510077296"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9ECEFE1E-36BC-4AC1-BBDE-95E0255E8702"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7052AF09-EB21-40A9-B9E3-DF2503845AA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D00518F-7572-4DAA-B25D-AC64E50AB854"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07224FE8-0343-40E9-9BF0-75B77C2B6327"
+    },
+    {
+      "class": "slice",
+      "id": "0F2D33A4-95BC-4530-A10B-CD2C84599D7D"
+    },
+    {
+      "class": "text",
+      "id": "AE94917B-E07F-4809-956C-0F7C92C5365C"
+    }
+  ],
+  "name": "IconTabTransactionHistory",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.2924404152653897,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

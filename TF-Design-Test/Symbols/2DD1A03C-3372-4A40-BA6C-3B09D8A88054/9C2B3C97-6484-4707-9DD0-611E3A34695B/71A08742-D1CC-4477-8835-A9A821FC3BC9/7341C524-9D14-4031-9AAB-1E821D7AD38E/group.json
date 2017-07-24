@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "7341C524-9D14-4031-9AAB-1E821D7AD38E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 33,
+    "x": 20,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BC917E5B-126F-472B-9E2E-54EA5B8D9765"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "064B89E5-C68F-4AC3-9A35-E31B63FD64C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14D6FDC5-1B62-46C6-817E-CDB387877F2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB053306-50D0-4C77-A5E1-D9C4D556A9C1"
+    },
+    {
+      "class": "text",
+      "id": "DCBF0211-2E5C-4152-BEEC-0B1BA5462699"
+    }
+  ],
+  "name": "IconTabDashboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 14.28571428571429,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8,
+        "green": 0.4666666666666666,
+        "red": 0.1490196078431373
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.4,
+        "red": 0.4
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6078431372549019,
+        "green": 0.6078431372549019,
+        "red": 0.6078431372549019
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9058823529411765,
+        "green": 0.9058823529411765,
+        "red": 0.9058823529411765
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "92B39614-6DC3-48D8-9DD1-18438C2DF153",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

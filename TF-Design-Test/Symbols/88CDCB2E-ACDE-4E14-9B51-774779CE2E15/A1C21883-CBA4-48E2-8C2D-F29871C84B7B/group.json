@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A1C21883-CBA4-48E2-8C2D-F29871C84B7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DF9186C6-B483-42C5-8F6F-F31CB711E395"
+    },
+    {
+      "class": "group",
+      "id": "090DD5D9-7934-41B4-A8BD-B201EB020E56"
+    },
+    {
+      "class": "group",
+      "id": "8E854EEB-FDD3-499C-B454-0F092FC3C30A"
+    },
+    {
+      "class": "group",
+      "id": "CFED963D-320E-4D6C-9DF9-DB6EFFA28B6F"
+    },
+    {
+      "class": "group",
+      "id": "A7588648-75B0-498F-A326-7890396150D8"
+    }
+  ],
+  "name": "MyPageTabBar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

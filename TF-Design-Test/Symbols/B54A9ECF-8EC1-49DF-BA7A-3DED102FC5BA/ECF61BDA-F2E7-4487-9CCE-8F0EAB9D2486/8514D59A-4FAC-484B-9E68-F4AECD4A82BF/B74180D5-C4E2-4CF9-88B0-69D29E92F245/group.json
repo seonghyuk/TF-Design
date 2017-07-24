@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "B74180D5-C4E2-4CF9-88B0-69D29E92F245",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 18,
+    "x": 222,
+    "y": 49
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA498BA5-4E0C-4D45-B464-FFB831F28F1C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B22F3F9E-2642-4E27-AED2-C4725FAA40B1"
+    },
+    {
+      "class": "slice",
+      "id": "9D1EAC7C-F84C-426A-A659-022E6319858B"
+    }
+  ],
+  "name": "IconMyPopupLogout",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

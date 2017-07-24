@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E166FDC2-C464-464C-B4C8-503022089EE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 72,
+    "x": 216,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "35F9960E-D24C-430E-9B11-AB58860250F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AE94CD0-13B3-4E39-90E1-6D616560898B"
+    },
+    {
+      "class": "group",
+      "id": "66066BE2-0013-409D-9FAB-01B998D9CC22"
+    }
+  ],
+  "name": "Tab4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "70B06F65-EE8C-4E12-8884-EB3B2E832061",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 131,
+    "width": 330,
+    "x": 0,
+    "y": 522
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EE49FB90-D615-4F1E-A98A-2CE083B4D82E"
+    },
+    {
+      "class": "text",
+      "id": "C92C6606-5DB3-4816-B8B9-3A1081A47946"
+    },
+    {
+      "class": "text",
+      "id": "9E0B471E-0EF1-4972-AC0B-AC0D16D3364B"
+    },
+    {
+      "class": "group",
+      "id": "12FE52D6-6239-4873-AF61-72A411F5ED6B"
+    },
+    {
+      "class": "text",
+      "id": "2D550BEC-8016-4CF6-BAA7-6A9CD396B58B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE84E574-D711-47A5-9275-F8957EB3DCB4"
+    }
+  ],
+  "name": "Marketing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

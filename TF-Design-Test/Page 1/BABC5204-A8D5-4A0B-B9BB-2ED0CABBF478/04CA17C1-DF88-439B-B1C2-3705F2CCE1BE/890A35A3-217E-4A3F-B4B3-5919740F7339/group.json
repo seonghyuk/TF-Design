@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "890A35A3-217E-4A3F-B4B3-5919740F7339",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1015,
+    "width": 330,
+    "x": 0,
+    "y": 2412
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D1B3DFD8-E0FB-43D2-BCA1-32B3B5EB73F0"
+    },
+    {
+      "class": "group",
+      "id": "6C67A1FD-D0CB-4D7A-86F0-BFA301BF5299"
+    },
+    {
+      "class": "group",
+      "id": "0128211F-A52C-4412-98EA-D9251739180F"
+    },
+    {
+      "class": "group",
+      "id": "A5C83979-4AC9-4B60-B25C-FEE9EB2E20EB"
+    },
+    {
+      "class": "group",
+      "id": "A4217C8C-FC81-4B83-A38C-7960595916CF"
+    },
+    {
+      "class": "group",
+      "id": "B6502F96-47AE-49EE-BD3C-040831D01EF9"
+    }
+  ],
+  "name": "08.InvestmentList",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

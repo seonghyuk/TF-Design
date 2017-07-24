@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "86865726-E544-4585-B48B-B63A2157C95A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 40,
+    "x": 16,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "95E489C3-23D1-48DB-9487-08C35A4C25C7"
+    },
+    {
+      "class": "slice",
+      "id": "9DC3D358-87BA-4D4E-AC03-9CA4FD7E3FCF"
+    },
+    {
+      "class": "text",
+      "id": "C21B0A27-3B2E-4613-AEAE-F2564A3790D0"
+    }
+  ],
+  "name": "IconTabMyInformation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.4098360655737704,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

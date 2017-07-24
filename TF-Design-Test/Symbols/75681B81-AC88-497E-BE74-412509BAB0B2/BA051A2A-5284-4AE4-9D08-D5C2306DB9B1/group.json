@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "BA051A2A-5284-4AE4-9D08-D5C2306DB9B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5DF29D61-1608-4E5A-AFAA-2842D357D204"
+    },
+    {
+      "class": "group",
+      "id": "6BE8B7C9-BD9E-47BD-8CF3-BBD501AC1438"
+    },
+    {
+      "class": "group",
+      "id": "9CA91444-FEEA-4CB0-86FB-5CCB2E1D76D0"
+    },
+    {
+      "class": "group",
+      "id": "FF9F416B-EC5E-41CC-A967-355C30F42772"
+    }
+  ],
+  "name": "SideMenu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

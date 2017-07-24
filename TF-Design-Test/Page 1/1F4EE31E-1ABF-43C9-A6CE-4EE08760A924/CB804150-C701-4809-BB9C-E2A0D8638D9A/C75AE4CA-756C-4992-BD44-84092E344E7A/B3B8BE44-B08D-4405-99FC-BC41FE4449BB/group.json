@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "B3B8BE44-B08D-4405-99FC-BC41FE4449BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 77,
+    "width": 166,
+    "x": 0,
+    "y": 298
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FB19B53A-AC5D-4382-9271-C9206AC52F3C"
+    },
+    {
+      "class": "text",
+      "id": "6906A2D3-A38D-4BBB-838A-E7B85C8F39EB"
+    },
+    {
+      "class": "group",
+      "id": "CFB47884-7A0A-4337-AEE4-878A1C3404F8"
+    }
+  ],
+  "name": "BtnDownload",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "7079F0E5-1FE6-4E3C-AB7B-65CFC9B2EA4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 100,
+    "x": 15,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AF62C885-B9F9-42E4-ADF7-33E0645D11C4"
+    },
+    {
+      "class": "text",
+      "id": "3958D29D-B5EA-403F-BE9A-47FF7E32D279"
+    },
+    {
+      "class": "text",
+      "id": "158CB44E-40A3-4EEE-9BB4-999E65633596"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B999E39-7A07-45F7-AA92-D3E8D9995C5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2A513F6-B55D-41FF-BA48-E74013374385"
+    },
+    {
+      "class": "group",
+      "id": "746C080C-9A73-41F2-963C-7163F7BBDCF0"
+    }
+  ],
+  "name": "BtnKoreap2p01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.555555555555555,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

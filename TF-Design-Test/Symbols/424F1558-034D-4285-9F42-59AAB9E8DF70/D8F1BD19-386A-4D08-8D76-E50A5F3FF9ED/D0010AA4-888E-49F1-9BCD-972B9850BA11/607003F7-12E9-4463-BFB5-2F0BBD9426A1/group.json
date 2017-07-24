@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "607003F7-12E9-4463-BFB5-2F0BBD9426A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 273,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "56A9D519-18AE-4C4B-8636-1B03617BB518"
+    },
+    {
+      "class": "group",
+      "id": "DB3A00C0-1C29-45E4-841A-C63659337FC1"
+    },
+    {
+      "class": "slice",
+      "id": "9F261DAD-8606-4422-9BA4-E4A1C3A74F64"
+    }
+  ],
+  "name": "BtnFooterBlogHover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.22559954109192,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

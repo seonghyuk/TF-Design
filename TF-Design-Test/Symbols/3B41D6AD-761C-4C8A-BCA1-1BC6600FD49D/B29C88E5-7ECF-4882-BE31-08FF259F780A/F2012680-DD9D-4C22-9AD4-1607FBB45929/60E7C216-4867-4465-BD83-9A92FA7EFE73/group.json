@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "60E7C216-4867-4465-BD83-9A92FA7EFE73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 273,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B7352EF6-202C-47DE-855B-DA49FD72C8CB"
+    },
+    {
+      "class": "group",
+      "id": "6C3F102D-DADA-48DF-A6C4-5FD3BD3FCB6F"
+    },
+    {
+      "class": "slice",
+      "id": "D383DB42-FDBB-40FA-8692-0BF906691C5A"
+    }
+  ],
+  "name": "BtnFooterBlog",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.22559954109192,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

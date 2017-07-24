@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "BAF8351B-381B-426D-8304-ACA227810EFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 32,
+    "x": 233,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5672FFA2-1D68-4202-A8AF-E4FDFA8E729B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C183F88-B7B0-4C39-B6DA-8792A06888EB"
+    },
+    {
+      "class": "slice",
+      "id": "F5E31976-5916-494C-8F10-8FE292B98611"
+    }
+  ],
+  "name": "BtnFooterFacebookHover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.22559954109192,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

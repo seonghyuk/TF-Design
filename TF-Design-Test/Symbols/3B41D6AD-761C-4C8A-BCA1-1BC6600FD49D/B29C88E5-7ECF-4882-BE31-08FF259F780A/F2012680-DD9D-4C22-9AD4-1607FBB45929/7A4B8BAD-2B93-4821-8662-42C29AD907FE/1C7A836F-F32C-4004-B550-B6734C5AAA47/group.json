@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "1C7A836F-F32C-4004-B550-B6734C5AAA47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 33,
+    "width": 199,
+    "x": 11.11111111111111,
+    "y": 0.1582491582491343
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0DAFBFC9-BA16-402E-AA8F-5FAA45D6C5FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "665D19FB-F414-42FF-9348-901A217BEED6"
+    },
+    {
+      "class": "slice",
+      "id": "4F49CE44-B7A7-4C7D-9646-673945FF5040"
+    }
+  ],
+  "name": "IconKoreap2p",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.555555555555555,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

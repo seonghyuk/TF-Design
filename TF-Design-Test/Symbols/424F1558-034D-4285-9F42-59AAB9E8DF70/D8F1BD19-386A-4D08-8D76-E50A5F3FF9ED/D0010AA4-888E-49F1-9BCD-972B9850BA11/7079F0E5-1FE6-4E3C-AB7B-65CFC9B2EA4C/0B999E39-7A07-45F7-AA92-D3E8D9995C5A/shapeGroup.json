@@ -1,0 +1,358 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "0B999E39-7A07-45F7-AA92-D3E8D9995C5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 6.340277777777777,
+    "width": 50.04166666666666,
+    "x": 37.5,
+    "y": 8.514520202020321
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ABF3964F-A807-4458-8865-5D5D822CA467"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B418B19-F4EF-4EC7-8376-30D3490E76FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "52AA7985-C3C4-4796-9D18-00D76595A634"
+    },
+    {
+      "class": "shapePath",
+      "id": "9369D8FD-3D3E-4CD1-BC22-947BB75A95C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "E03513A4-B2E4-4AFC-AD0B-06AD47619533"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA93651C-CC4F-4BBC-8477-45D2B7E3D5BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "F20C3244-D39B-45F1-9F7C-951AEEA0E298"
+    },
+    {
+      "class": "shapePath",
+      "id": "05DE361C-E8DA-4900-AED5-7E942092EF2D"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2DB8A3E-86A4-40B5-9736-8E202BED3F09"
+    },
+    {
+      "class": "shapePath",
+      "id": "31B2FB4D-FE93-4067-B9A7-86212AB5E9FF"
+    },
+    {
+      "class": "shapePath",
+      "id": "833669C0-60F5-4EE8-8E5C-908105D5254F"
+    },
+    {
+      "class": "shapePath",
+      "id": "A5843E92-D750-408E-AF56-ADB7FF561BFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "0ADD2563-DD66-42A2-9AD2-CFD7BBB91DBB"
+    },
+    {
+      "class": "shapePath",
+      "id": "392C51E4-E5F8-46B0-B796-76F8984791E2"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2C0D825-B1C0-464B-BC1D-DCFE135A485B"
+    },
+    {
+      "class": "shapePath",
+      "id": "D841247F-8180-468A-8D06-7AD7723E4E6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "8D38A6F1-2B5E-44BD-BA41-EDD13B9128F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "503AB34B-E5D1-46C8-8D1E-EA11011859D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "8DC86BF0-FF48-400D-A7D0-89CAD672108C"
+    },
+    {
+      "class": "shapePath",
+      "id": "A354635C-DE60-4B90-97A4-0EAFEFCCA501"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B055C7C-BF47-4EB4-83C8-CAD470103BBC"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E4F56BA-5990-4993-9D43-0B9B702148C7"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F023D8E-B552-4BD8-9B70-87E40E835300"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F1A94E0-AEDB-4A9A-8C33-AF8BF91B3962"
+    },
+    {
+      "class": "shapePath",
+      "id": "685F15B1-550B-40B9-A38D-65FBE5582D95"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F064F8C-FCA7-4927-A043-BB0D7C1A7E91"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACE43BB4-F2B3-49C3-973F-6E8825DEE9B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "C3C143A5-C059-4D6C-835D-860D7EC9D368"
+    },
+    {
+      "class": "shapePath",
+      "id": "0DC2E969-5D8E-4179-865B-3DE0942A4E7D"
+    }
+  ],
+  "name": "한국P2P금융협회 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.555555555555555,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374566,
+          "green": 0.2901752889,
+          "red": 0.2902216315
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 8
+                  },
+                  "NSFontDescriptorAttributes": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 7
+                  },
+                  "NS.keys": [
+                    {
+                      "UID": 3
+                    },
+                    {
+                      "UID": 4
+                    }
+                  ],
+                  "NS.objects": [
+                    {
+                      "UID": 5
+                    },
+                    {
+                      "UID": 6
+                    }
+                  ]
+                },
+                "NSFontSizeAttribute",
+                "NSFontNameAttribute",
+                6.944444444444445,
+                "NotoSansCJKkr-Medium",
+                {
+                  "$classes": [
+                    "NSMutableDictionary",
+                    "NSDictionary",
+                    "NSObject"
+                  ],
+                  "$classname": "NSMutableDictionary"
+                },
+                {
+                  "$classes": [
+                    "NSFontDescriptor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSFontDescriptor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSColor": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSColorSpace": 1,
+                  "NSCustomColorSpace": {
+                    "UID": 2
+                  },
+                  "NSRGB": {
+                    "data": "0.2902216315 0.2901752889 0.2902374566\u0000",
+                    "type": "Buffer"
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 3
+                  },
+                  "NSID": 1
+                },
+                {
+                  "$classes": [
+                    "NSColorSpace",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColorSpace"
+                },
+                {
+                  "$classes": [
+                    "NSColor",
+                    "NSObject"
+                  ],
+                  "$classname": "NSColor"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        },
+        "NSParagraphStyle": {
+          "_archive": [
+            {
+              "$archiver": "NSKeyedArchiver",
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSAlignment": 2,
+                  "NSAllowsTighteningForTruncation": 1,
+                  "NSTabStops": {
+                    "UID": 0
+                  },
+                  "NSTextBlocks": {
+                    "UID": 2
+                  },
+                  "NSTextLists": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "$class": {
+                    "UID": 3
+                  },
+                  "NS.objects": [
+                  ]
+                },
+                {
+                  "$classes": [
+                    "NSArray",
+                    "NSObject"
+                  ],
+                  "$classname": "NSArray"
+                },
+                {
+                  "$classes": [
+                    "NSMutableParagraphStyle",
+                    "NSParagraphStyle",
+                    "NSObject"
+                  ],
+                  "$classname": "NSMutableParagraphStyle"
+                }
+              ],
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              },
+              "$version": 100000
+            }
+          ]
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

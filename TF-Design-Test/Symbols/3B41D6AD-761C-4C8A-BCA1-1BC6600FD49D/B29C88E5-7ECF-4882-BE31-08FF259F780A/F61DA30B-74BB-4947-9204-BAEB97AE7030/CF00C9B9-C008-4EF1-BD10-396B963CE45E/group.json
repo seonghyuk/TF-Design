@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "CF00C9B9-C008-4EF1-BD10-396B963CE45E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 144,
+    "x": 201,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E86F2280-EB65-45E2-BC27-6F8BC86A6F57"
+    },
+    {
+      "class": "text",
+      "id": "86AFFC0A-CB34-4908-B8FD-AA2725DB0095"
+    },
+    {
+      "class": "text",
+      "id": "973F2A25-99B7-4D5C-9041-62C4AC9AC90D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E94C234C-99E5-4533-8DB7-30CF9CFB4100"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71B82364-4661-45D5-9520-E1CC17A14E54"
+    },
+    {
+      "class": "slice",
+      "id": "3C92CDBD-3F98-4B19-8FAD-83883E6EE16A"
+    }
+  ],
+  "name": "IconFooterLoanCall",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
